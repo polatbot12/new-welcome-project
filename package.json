@@ -1,12 +1,12 @@
 {
-  "name": "dark-voice-bots",
+  "name": "polat-voice-bots",
   "version": "1.0.0",
-  "description": "",
+  "description": "polatbot",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "polemikal",
+  "author": "polatbotdevil",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
