@@ -1,14 +1,14 @@
 {
     "DEFAULTS": {
         "AUTHORS": [],
-        "ACTIVITY_TEXT": "Polemikal Voice System",
-        "GUILD_ID": "731082918876807239",
-        "VOICE_CHANNEL": "828072099113074738",
-        "MIN_STAFF_ROLE": "826800925468655626"
+        "ACTIVITY_TEXT": "Voice System",
+        "GUILD_ID": "",
+        "VOICE_CHANNEL": "",
+        "MIN_STAFF_ROLE": ""
     },
     "FILES": {
         "WELCOME": "default_files/<welcome-voice>.mp3",
         "STAFF": "default_files/<staff-voice>.mp3"
     },
-    "TOKEN": "ODQ4MTcyNzI5MTExMDE5NTgw.YLIwaA.7vXls_NYS6pjL3OYxaHbxXpWvik"
+    "TOKEN": ""
 }
