@@ -1,4 +1,4 @@
-# discord-welcome-bot
+# discord-welcome-voice
 
 # By : POLAT BOT
 
